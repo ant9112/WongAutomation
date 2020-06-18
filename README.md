@@ -9,7 +9,7 @@ Automatización de una prueba funcional para la experiencia web de la página ht
 2.   Eclipse IDE (Oxigen o Neon) o IntelliJ IDEA (2019)
 3.   Gradle v5.2.1 o superior(variables de entorno configuradas)
 4.   Cucumber
-5.   ChromeDriver 80.0
+5.   Chrome Versión 83.0.4103.106 (Official Build) (32-bit)
  
 
 # Instalación 🔧
